@@ -80,7 +80,7 @@ var myString = "I Love JavaScript Too Much",
 
 console.log(myChar);
 */
-
+/*
 var myString = "I Love JavaScript Too Much",
 
     myChar = myString.replace("JavaScript", "PHP");
@@ -88,3 +88,42 @@ var myString = "I Love JavaScript Too Much",
     console.log(myString);
 
 console.log(myChar);
+*/
+
+/*
+var myString = "I Love JavaScript Too Much",
+
+    myReplace = myString.replace("JavaScript", "PHP");
+
+    console.log(myString);
+
+console.log(myReplace);
+*/
+
+/*
+var myString = "I Love JavaScript Too Much",
+
+    myReplace = myString.replace("JavaScript", "PISON");
+
+    console.log(myString);
+
+console.log(myReplace);
+*/
+/*
+var myString = "I Love JavaScript Too Much",
+
+    myReplace = myString.replace("JavaScript", "PISON");
+
+    console.log(myString);
+
+console.log(myReplace);
+*/
+
+
+var myString = "I Love JavaScript Too Much",
+
+    myReplace = myString.replace("JavaScript", "PISON");
+
+    console.log(myString);
+
+console.log(myReplace);
