@@ -3,6 +3,7 @@
 /*
 charAt : (index)
 charCodeAt : (index)
+replace : (value, new value)
 */
 /*
 var myString = "I Love JavaScript Too Much",
@@ -70,14 +71,20 @@ var myString = "I Love JavaScript Too Much",
 
 console.log(myChar);
 */
-
+/*
 var myString = "I Love JavaScript Too Much",
 
-
-    myChar = myString.charCodeAt();
-
+    myChar = myString.charCodeAt(2);
 
     console.log(myString);
 
+console.log(myChar);
+*/
+
+var myString = "I Love JavaScript Too Much",
+
+    myChar = myString.replace("JavaScript", "PHP");
+
+    console.log(myString);
 
 console.log(myChar);
